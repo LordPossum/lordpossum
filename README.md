@@ -1,4 +1,7 @@
-### Hi there 👋
+### Is this my party?
+[![Diggy Diggy Hole-Dance Remix]
+(https://img.youtube.com/vi/wnBvEddq7nw/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=wnBvEddq7nw)
 
 <!--
 **LordPossum/lordpossum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
